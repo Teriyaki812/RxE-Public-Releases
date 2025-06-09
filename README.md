@@ -71,7 +71,7 @@ _(Want your screenshot featured here? [Open an issue](https://github.com/Ritsu-P
 
 - (_Android / Apple only_) Get a suitable browser (see [Mobile Browsers](#mobile-browsers)).
 - Install a **userscript manager** as a browser extension ([ViolentMonkey](https://violentmonkey.github.io/) or [TamperMonkey](https://www.tampermonkey.net/)).
-- Install RxE into your browser by [clicking here](https://github.com/Ritsu-Projects/Public-Releases/raw/main/ritsu-emerald.user.js).
+- Install RxE into your browser by [clicking here](https://github.com/Teriyaki812/RxE-Public-Releases/raw/main/ritsu-emerald.user.js).
 - Refresh EmeraldChat, and change your settings in the new **Ritsu Menu**.
 
 ### Recommended Mobile Browsers
@@ -97,11 +97,11 @@ To use RxE on mobile, choose one of the following options:
 - **iOS**: Tampermonkey for Safari ([App Store](https://apps.apple.com/us/app/tampermonkey/id1482490089?mt=12), $1.99)
 - **iOS**: Tampermonkey for Safari — versions 6 to 11 ([Extension File](https://www.tampermonkey.net/?ext=dhdg&browser=safari))
 
-_(Have a free working setup for iOS? [Open an issue](https://github.com/Ritsu-Projects/Public-Releases/issues/new/choose) and you might see it here. See [Stack Exchange discussion](https://apple.stackexchange.com/questions/31562/is-there-something-similar-to-the-greasemonkey-script-system-for-a-browser-in-io) for more details on iOS support.)_
+_(Have a free working setup for iOS? [Open an issue](https://github.com/Teriyaki812/RxE-Public-Releases/issues/new/choose) and you might see it here. See [Stack Exchange discussion](https://apple.stackexchange.com/questions/31562/is-there-something-similar-to-the-greasemonkey-script-system-for-a-browser-in-io) for more details on iOS support.)_
 
 ### Installing RxE
 
-Once that's done, you can [click here to install the latest RxE script](https://raw.githubusercontent.com/Ritsu-Projects/Public-Releases/main/ritsu-emerald.user.js).
+Once that's done, you can [click here to install the latest RxE script](https://raw.githubusercontent.com/Teriyaki812/RxE-Public-Releases/main/ritsu-emerald.user.js).
 Alternatively, select a script in the repository to load a specific version (and then click on the <kbd>Raw</kbd> button). If your userscript manager doesn't prompt you to install the script, download it from the link and add it manually (for Tampermonkey, that's Utilities -> File -> Import).
 **Warning: Never install scripts from untrusted sources.**
 
