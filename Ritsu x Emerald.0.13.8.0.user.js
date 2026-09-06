@@ -3,7 +3,7 @@
 // @version      0.13.8.0
 // @description  Custom Emerald Chat themes and fixes.
 // @author       Atsos/Ritsu, Aqua, Strawberry, Teriyaki
-// @icon         https://i.imgur.com/x9Wkfzq.png
+// @icon         https://i.imgur.com/14f9VD4.png
 // @match        *://emeraldchat.com/old/app/*
 // @match        *://www.emeraldchat.com/old/app/*
 // @namespace    Emerald Bot - Ritsu Project
